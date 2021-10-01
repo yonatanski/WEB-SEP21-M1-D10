@@ -2,7 +2,9 @@
 
 //         21) Given variables x = "John" and y = "Doe", write on the console "John <> Doe"
             consol.log("\n----------------->Excercise 21 JS<-----------------")
-            
+            let x = "john"
+            let y = " Doe"
+            console.log( x + "<>" + y)
 //         22) Create an object with properties such name, surname, email
 //         23) Delete the email property from the previously created object
 //         24) Create an array with 10 strings in it
