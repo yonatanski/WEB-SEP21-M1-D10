@@ -50,6 +50,7 @@ table {
 }
 /* 18) Create a class to hide a piece of content */
 .hide {
+  font-size: x-large;
 }
 /* 19) Add a green border to each <td> */
 td {
